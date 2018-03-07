@@ -53,11 +53,14 @@ This is proyect was made with **Unity in the version 2017.3.1f1** and using **Vu
 <p align="center">
   <img src="Documentation Images/Autodesk-Maya-2018-450x450.jpg"/>
 </p>
+
 * In case you would like to use **Maya** as us [here](https://www.autodesk.mx/education/free-software/maya) is the page to download it.
 <p align="center">
   <img src="Documentation Images/maya.png"/>
 </p>
+
 * If you made your models in **Maya** and you wold like to export them to **Unity** [here](https://docs.unity3d.com/Manual/HOWTO-ImportObjectMaya.html) is the documentation to do it.
+
 <p align="center">
   <img src="Documentation Images/import.png"/>
 </p>
