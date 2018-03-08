@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 93b122d2f829c4f8d978083188f794b6
+  - enabled: 1
+    path: Assets/Scenes/ARPlane.unity
+    guid: 5a318a2e0d78d4cf4be20707ba6dd4b1
