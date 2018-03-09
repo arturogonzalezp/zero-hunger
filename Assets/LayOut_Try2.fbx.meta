@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 1ddaca90717f14cef996a7b38f0b5a87
+timeCreated: 1520444570
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Caja
+    100002: //RootNode
+    100004: Rastrillo
+    100006: Regadera:group1
+    100008: Regadera:pCube1
+    100010: Regadera:pCube2
+    100012: Regadera:pCube3
+    100014: Regadera:pCube4
+    100016: Regadera:pCube5
+    100018: Regadera:pCube6
+    100020: Regadera:pPlane1
+    100022: Regadera:pPlane2
+    100024: Regadera:pPlane3
+    100026: regla
+    100028: Saco
+    100030: semilla1
+    100032: semilla2
+    100034: semilla3
+    100036: semilla4
+    100038: Tierra
+    400000: Caja
+    400002: //RootNode
+    400004: Rastrillo
+    400006: Regadera:group1
+    400008: Regadera:pCube1
+    400010: Regadera:pCube2
+    400012: Regadera:pCube3
+    400014: Regadera:pCube4
+    400016: Regadera:pCube5
+    400018: Regadera:pCube6
+    400020: Regadera:pPlane1
+    400022: Regadera:pPlane2
+    400024: Regadera:pPlane3
+    400026: regla
+    400028: Saco
+    400030: semilla1
+    400032: semilla2
+    400034: semilla3
+    400036: semilla4
+    400038: Tierra
+    2100000: Box_lambert2
+    2100002: lambert5
+    2100004: lambert1
+    2100006: lambert7
+    2300000: Caja
+    2300002: Rastrillo
+    2300004: Regadera:pCube1
+    2300006: Regadera:pCube2
+    2300008: Regadera:pCube3
+    2300010: Regadera:pCube4
+    2300012: Regadera:pCube5
+    2300014: Regadera:pCube6
+    2300016: Regadera:pPlane1
+    2300018: Regadera:pPlane2
+    2300020: Regadera:pPlane3
+    2300022: regla
+    2300024: Saco
+    2300026: semilla1
+    2300028: semilla2
+    2300030: semilla3
+    2300032: semilla4
+    2300034: Tierra
+    3300000: Caja
+    3300002: Rastrillo
+    3300004: Regadera:pCube1
+    3300006: Regadera:pCube2
+    3300008: Regadera:pCube3
+    3300010: Regadera:pCube4
+    3300012: Regadera:pCube5
+    3300014: Regadera:pCube6
+    3300016: Regadera:pPlane1
+    3300018: Regadera:pPlane2
+    3300020: Regadera:pPlane3
+    3300022: regla
+    3300024: Saco
+    3300026: semilla1
+    3300028: semilla2
+    3300030: semilla3
+    3300032: semilla4
+    3300034: Tierra
+    4300000: Caja
+    4300002: Tierra
+    4300004: Regadera:pPlane3
+    4300006: Regadera:pPlane1
+    4300008: Regadera:pCube6
+    4300010: Regadera:pCube3
+    4300012: Regadera:pPlane2
+    4300014: Regadera:pCube5
+    4300016: Regadera:pCube4
+    4300018: Regadera:pCube2
+    4300020: Regadera:pCube1
+    4300022: Rastrillo
+    4300024: Saco
+    4300026: semilla1
+    4300028: semilla2
+    4300030: semilla3
+    4300032: semilla4
+    4300034: regla
+    7400000: caja
+    7400002: tierra
+    7400004: rastrillo
+    7400006: 3
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: caja
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: tierra
+      takeName: Take 001
+      firstFrame: 19
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rastrillo
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

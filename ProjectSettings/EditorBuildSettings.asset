@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 93b122d2f829c4f8d978083188f794b6
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4b5a8a39b659fa744a0a56e764bf6193
+  - enabled: 1
+    path: Assets/Scenes/compost.unity
+    guid: 579a6882fcd4a4ecb87338be0007f52c
+  - enabled: 1
+    path: Assets/Scenes/orchardTest.unity
+    guid: 6f5d5266796d14d7da70259bc2cc4117
+  - enabled: 1
+    path: Assets/Scenes/success.unity
+    guid: 972497f167c044c10921a14c2a8f41d7
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: 4f787b096f8584e018a83408e02693df
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: f9b3d826a5af88e4f8631c280e7dad49
+  - enabled: 1
+    path: Assets/Scenes/HowTo.unity
+    guid: 026bdb86c6960cb418003f9a7f3f7dac
+  - enabled: 1
+    path: Assets/Scenes/orchard.unity
+    guid: 5a318a2e0d78d4cf4be20707ba6dd4b1
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 534f0853341d17340ba3a7a09db0121f
