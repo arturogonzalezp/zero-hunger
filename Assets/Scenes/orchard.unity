@@ -1681,6 +1681,7 @@ MonoBehaviour:
   - {fileID: 981516944}
   - {fileID: 1446601215}
   - {fileID: 477874074}
+  successStory: successORCHARD
 --- !u!1 &1196550977
 GameObject:
   m_ObjectHideFlags: 0
@@ -2799,7 +2800,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1825643712}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 114389632662665850, guid: e1b48081ca709a34ab06d4c5ded469fe,
+          type: 2}
+        m_MethodName: newGameBtn
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Menu
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1825643712

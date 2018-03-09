@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class stateController : MonoBehaviour {
 
@@ -12,6 +13,8 @@ public class stateController : MonoBehaviour {
 	private Animator animator;
     private Image currentStepImg;
     private int indexOfActiveStep = 0;
+
+	public string successStory;
 
 	// Use this for initialization
 	void Start () {
@@ -40,7 +43,7 @@ public class stateController : MonoBehaviour {
             indexOfActiveStep = 0;
             images[indexOfActiveStep].SetActive(true);
         } else if(indexOfActiveStep == images.Length-1){
-            // success case
+			SceneManager.LoadScene (successStory);
         }else{
             images[indexOfActiveStep].SetActive(false);
             indexOfActiveStep++;
