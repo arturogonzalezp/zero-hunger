@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 4b5a8a39b659fa744a0a56e764bf6193
   - enabled: 1
+    path: Assets/Scenes/orchard.unity
+    guid: 3931f2d9f4c2b4643a3699e9fcb046ae
+  - enabled: 1
     path: Assets/Scenes/compost.unity
     guid: 579a6882fcd4a4ecb87338be0007f52c
   - enabled: 1
@@ -29,9 +32,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HowTo.unity
     guid: 026bdb86c6960cb418003f9a7f3f7dac
-  - enabled: 1
-    path: Assets/Scenes/orchard.unity
-    guid: 5a318a2e0d78d4cf4be20707ba6dd4b1
   - enabled: 1
     path: Assets/Scenes/About.unity
     guid: 534f0853341d17340ba3a7a09db0121f
