@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/SplashScreen.unity
-    guid: 93b122d2f829c4f8d978083188f794b6
+    guid: 4e139b358d823411caecf0b6e8d47372
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 4b5a8a39b659fa744a0a56e764bf6193
@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/success.unity
     guid: 972497f167c044c10921a14c2a8f41d7
   - enabled: 1
+    path: Assets/Scenes/HowTo.unity
+    guid: 4bf5d37357a2846a592c2aeb75217519
+  - enabled: 1
     path: Assets/Scenes/About.unity
     guid: 18e6ee888d8eb4d919b80e4467471c36
   - enabled: 1
@@ -32,6 +35,3 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Start.unity
     guid: f9b3d826a5af88e4f8631c280e7dad49
-  - enabled: 1
-    path: Assets/Scenes/HowTo.unity
-    guid: 026bdb86c6960cb418003f9a7f3f7dac
