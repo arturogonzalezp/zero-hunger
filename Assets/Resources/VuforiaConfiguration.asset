@@ -8,12 +8,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Script: {fileID: -2067402452, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: 
-    ufoLicenseKey: QWNUTUFrYi8vLy8vQUFBQUtLbjZnMjVYODA5WnBRWWtrQWZMNTB4T1VCS0ordzBKTlNlUjJ5eDBMcUlHWkpha295U1RjU0lYQzhTRVBKbVZUWjdCMERtb3VHSldRczl2MWh4ek1ZZE8yVFBtR0Vtd3pxTmdpdnd3T2R4R1JZRGZjTktNWlU4NEcwZHlPK3h0aWJKcXkvaVA2ajg3RTlacDBjdDhYclJxQmxNMmRhUXlITUFZVTFjS0lMdjdlSkVVQ2xrM3R0TXVVWDlvWDFuVk43dno3QS9ONnBEekhrYzV5K2N0YllJckM1eGJ5Njh5N3dQS2xrSFdBb203dloreUVqMjlTVFB4TTkxNlJnMXVqSWk3V1ZhaVMrL3RGMkJHcUlOSWJjQVRzQVZobGtDR0FzNWIra3NucHRxbGtERFRGeDFRcEFwYlpwNEdJWkdHYzBXeWg5aHVvOERhMXUvRjQwbnBFSkhCeDZLYTBXUWVCb2YzSlY5Y29DdjU=
+    ufoLicenseKey: QVZqYTRvai8vLy8vQUFBQUtQelgvRGswcUVwamdncHpnMzJWUjF0YmlFUTkyTi9ibUJVbnQ1S2ZCOHFSYVZBUTQ5alZyM1ZUV1F0dVZLeUtFSzBJb0o2MktDcFQyRGRBZ2xyb0dtWml5WUtva21YcFhMREw3K3JibjIrTUJpd1cyRXczcHVKZ0lSZnc5enRQQlRXMmhadC9uVVArOE5mV2hZZHRUUXMrUENPQkxPTlVMMmJJdzdkZmNmR2FRQkdEUnBxNHgyMzdmWDJTTUVJdmc3VVBBNjlpVDFFbmV0MC9xd1NpTkhzV29JSHBEUFhXTnNlMVkxOTEzcEx6N2lxWEQvbE83NFFiWFFnYVFpaUtzZlJrZzRvT0duU3NaMjJxRUJDYTNiT25OMXZubDRKa2tZQ29GR1IxSVpxbm05TlBzbWppaERwdEQzS2gwek5ZbVJsbG5NSWEvZDVNVWl1R1QwZmpsQkZqWVp6YXloTGc2Q1N0Mlp0Z0hkSko=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
@@ -43,12 +43,8 @@ MonoBehaviour:
       FieldOfView: {x: 0, y: 0, z: 0, w: 0}
       ContainsMagnet: 0
   databaseLoad:
-    dataSetsToLoad:
-    - VuforiaMars_Images
-    - VuforiaMars_VuMark
-    dataSetsToActivate:
-    - VuforiaMars_Images
-    - VuforiaMars_VuMark
+    dataSetsToLoad: []
+    dataSetsToActivate: []
   videoBackground:
     clippingMode: 0
     numDivisions: 2
@@ -57,9 +53,9 @@ MonoBehaviour:
     matteShader: {fileID: 15310, guid: 0000000000000000f000000000000000, type: 0}
     videoBackgroundEnabled: 1
   deviceTracker:
-    autoInitTracker: 0
-    autoStartTracker: 0
-    trackingMode: 0
+    autoInitTracker: 1
+    autoStartTracker: 1
+    trackingMode: 1
     posePrediction: 0
     modelCorrectionMode: 0
     modelTransformEnabled: 0

@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: bdace5ce7e91b2e4f9ea1c1336143007
+timeCreated: 1520479274
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bottom
+    100002: GEO_Agua
+    100004: GEO_Apple
+    100006: GEO_Banana
+    100008: Geo_BoteChico
+    100010: GEO_boteGrande
+    100012: GEO_BoteMezcla
+    100014: GEO_Brick
+    100016: GEO_Capa1
+    100018: GEO_Capa2
+    100020: GEO_Capa3
+    100022: GEO_Capas
+    100024: GEO_Egg
+    100026: GEO_Hoyos
+    100028: GEO_Lona
+    100030: GEO_Milk
+    100032: GEO_Pala
+    100034: GEO_Rama1
+    100036: GEO_Rama10
+    100038: GEO_Rama11
+    100040: GEO_Rama12
+    100042: GEO_Rama2
+    100044: GEO_Rama3
+    100046: GEO_Rama4
+    100048: GEO_Rama5
+    100050: GEO_Rama6
+    100052: GEO_Rama7
+    100054: GEO_Rama8
+    100056: GEO_Rama9
+    100058: GEO_Ramas
+    100060: GEO_Regadera
+    100062: GEO_Saco
+    100064: GEO_SacoMadera
+    100066: GEO_TapaChica
+    100068: GEO_tapaGrande
+    100070: GEO_Tierra
+    100072: group1
+    100074: GRP_BoteChico
+    100076: GRP_BoteGrande
+    100078: GRP_Brick
+    100080: left
+    100082: //RootNode
+    400000: bottom
+    400002: GEO_Agua
+    400004: GEO_Apple
+    400006: GEO_Banana
+    400008: Geo_BoteChico
+    400010: GEO_boteGrande
+    400012: GEO_BoteMezcla
+    400014: GEO_Brick
+    400016: GEO_Capa1
+    400018: GEO_Capa2
+    400020: GEO_Capa3
+    400022: GEO_Capas
+    400024: GEO_Egg
+    400026: GEO_Hoyos
+    400028: GEO_Lona
+    400030: GEO_Milk
+    400032: GEO_Pala
+    400034: GEO_Rama1
+    400036: GEO_Rama10
+    400038: GEO_Rama11
+    400040: GEO_Rama12
+    400042: GEO_Rama2
+    400044: GEO_Rama3
+    400046: GEO_Rama4
+    400048: GEO_Rama5
+    400050: GEO_Rama6
+    400052: GEO_Rama7
+    400054: GEO_Rama8
+    400056: GEO_Rama9
+    400058: GEO_Ramas
+    400060: GEO_Regadera
+    400062: GEO_Saco
+    400064: GEO_SacoMadera
+    400066: GEO_TapaChica
+    400068: GEO_tapaGrande
+    400070: GEO_Tierra
+    400072: group1
+    400074: GRP_BoteChico
+    400076: GRP_BoteGrande
+    400078: GRP_Brick
+    400080: left
+    400082: //RootNode
+    2000000: bottom
+    2000002: left
+    2300000: GEO_Agua
+    2300002: GEO_Apple
+    2300004: GEO_Banana
+    2300006: Geo_BoteChico
+    2300008: GEO_boteGrande
+    2300010: GEO_BoteMezcla
+    2300012: GEO_Brick
+    2300014: GEO_Capa1
+    2300016: GEO_Capa2
+    2300018: GEO_Capa3
+    2300020: GEO_Egg
+    2300022: GEO_Hoyos
+    2300024: GEO_Lona
+    2300026: GEO_Milk
+    2300028: GEO_Pala
+    2300030: GEO_Rama1
+    2300032: GEO_Rama10
+    2300034: GEO_Rama11
+    2300036: GEO_Rama12
+    2300038: GEO_Rama2
+    2300040: GEO_Rama3
+    2300042: GEO_Rama4
+    2300044: GEO_Rama5
+    2300046: GEO_Rama6
+    2300048: GEO_Rama7
+    2300050: GEO_Rama8
+    2300052: GEO_Rama9
+    2300054: GEO_Regadera
+    2300056: GEO_Saco
+    2300058: GEO_TapaChica
+    2300060: GEO_tapaGrande
+    2300062: GEO_Tierra
+    3300000: GEO_Agua
+    3300002: GEO_Apple
+    3300004: GEO_Banana
+    3300006: Geo_BoteChico
+    3300008: GEO_boteGrande
+    3300010: GEO_BoteMezcla
+    3300012: GEO_Brick
+    3300014: GEO_Capa1
+    3300016: GEO_Capa2
+    3300018: GEO_Capa3
+    3300020: GEO_Egg
+    3300022: GEO_Hoyos
+    3300024: GEO_Lona
+    3300026: GEO_Milk
+    3300028: GEO_Pala
+    3300030: GEO_Rama1
+    3300032: GEO_Rama10
+    3300034: GEO_Rama11
+    3300036: GEO_Rama12
+    3300038: GEO_Rama2
+    3300040: GEO_Rama3
+    3300042: GEO_Rama4
+    3300044: GEO_Rama5
+    3300046: GEO_Rama6
+    3300048: GEO_Rama7
+    3300050: GEO_Rama8
+    3300052: GEO_Rama9
+    3300054: GEO_Regadera
+    3300056: GEO_Saco
+    3300058: GEO_TapaChica
+    3300060: GEO_tapaGrande
+    3300062: GEO_Tierra
+    4300000: GEO_Brick
+    4300002: GEO_Pala
+    4300004: GEO_boteGrande
+    4300006: GEO_tapaGrande
+    4300008: GEO_TapaChica
+    4300010: Geo_BoteChico
+    4300012: GEO_BoteMezcla
+    4300014: GEO_Hoyos
+    4300016: GEO_Saco
+    4300018: GEO_Tierra
+    4300020: GEO_Lona
+    4300022: GEO_Banana
+    4300024: GEO_Egg
+    4300026: GEO_Apple
+    4300028: GEO_Milk
+    4300030: GEO_Regadera
+    4300032: GEO_Agua
+    4300034: GEO_Rama1
+    4300036: GEO_Rama2
+    4300038: GEO_Rama3
+    4300040: GEO_Rama4
+    4300042: GEO_Rama5
+    4300044: GEO_Rama6
+    4300046: GEO_Rama7
+    4300048: GEO_Rama8
+    4300050: GEO_Rama9
+    4300052: GEO_Rama10
+    4300054: GEO_Rama11
+    4300056: GEO_Rama12
+    4300058: GEO_Capa1
+    4300060: GEO_Capa2
+    4300062: GEO_Capa3
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 35d8bb98cd247d04e9251af323a2ea9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Agua
+    second: {fileID: 2100000, guid: 9b2f473a902aa1945a2ee0da5914e87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Apple
+    second: {fileID: 2100000, guid: e3ca6cf93b8965a4ea5f3d99555f680d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Banana
+    second: {fileID: 2100000, guid: b9d4997e2f81bfe42a2a6c28d7adff1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_BoteChico
+    second: {fileID: 2100000, guid: 7a2e42cdfaa466d46a83cfc2583d5da8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_BoteGrande
+    second: {fileID: 2100000, guid: 1c55f2bd60417834daede2f88f93d320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_BoteMezcla
+    second: {fileID: 2100000, guid: af2d3a8860d14ad4ca6ab5f66890551d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Brick
+    second: {fileID: 2100000, guid: 725feef78323dc74a80fe5e27c668b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Capa1
+    second: {fileID: 2100000, guid: b80de3dda50a44148986ed4ab5a752f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Capa2
+    second: {fileID: 2100000, guid: acae471b339d6bc42be9cd9c18b33e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Capa3
+    second: {fileID: 2100000, guid: 3f5a687a7541319479cf35b25a956167, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Egg
+    second: {fileID: 2100000, guid: 563f86b2aee167247b954d6544781966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Hoyos
+    second: {fileID: 2100000, guid: 90f7acfdd3a6fe248b7b2349ec9acb34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Milk
+    second: {fileID: 2100000, guid: 1025adcb223498049bc6e743638a09cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Pala
+    second: {fileID: 2100000, guid: da901c7216080d34d9e2c9b85e2d4d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Ramas
+    second: {fileID: 2100000, guid: 76d9ff6feb56bde4fbe51405b2d7c3fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Regadera
+    second: {fileID: 2100000, guid: fa3e6d37d1d4cf144818102728b9090d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Saco
+    second: {fileID: 2100000, guid: d45b0d1a2728fc64488550b97d8d0c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_TapaChica
+    second: {fileID: 2100000, guid: 7643130a9b5b95b4daee34c67658a1eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_TapaGrande
+    second: {fileID: 2100000, guid: d026d78d87940b84e8956e838899a1c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Tierra
+    second: {fileID: 2100000, guid: 4efc899f2dfda824cb136b23938d1103, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
