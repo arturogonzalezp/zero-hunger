@@ -14,8 +14,8 @@ public class PlaneManagerV2 : MonoBehaviour
     public Text m_TitleMode, m_OnScreenMessage;
     public Button m_ResetButton;
     public CanvasGroup m_ScreenReticleGround;
-    public GameObject m_RotationIndicator;
-    public GameObject m_TranslationIndicator;
+    //public GameObject m_RotationIndicator;
+    //public GameObject m_TranslationIndicator;
     public Transform m_Floor;
 
     [Range(0.1f, 2.0f)]
@@ -93,8 +93,8 @@ public class PlaneManagerV2 : MonoBehaviour
     {
         if (m_PlacementAugmentation.activeInHierarchy)
         {
-            m_RotationIndicator.SetActive(Input.touchCount == 2);
-            m_TranslationIndicator.SetActive(TouchHandler.IsSingleFingerDragging());
+            //m_RotationIndicator.SetActive(Input.touchCount == 2);
+            //m_TranslationIndicator.SetActive(TouchHandler.IsSingleFingerDragging());
             if (TouchHandler.IsSingleFingerDragging() || (VuforiaRuntimeUtilities.IsPlayMode() && Input.GetMouseButton(0)))
             {
                 if (!IsCanvasButtonPressed())
@@ -122,7 +122,7 @@ public class PlaneManagerV2 : MonoBehaviour
             m_OnScreenMessage.transform.parent.gameObject.SetActive(true);
             m_OnScreenMessage.enabled = true;
 
-            m_OnScreenMessage.text = "Tap to place Chair";
+            m_OnScreenMessage.text = "Tap to place object";
         }
         else
         {
