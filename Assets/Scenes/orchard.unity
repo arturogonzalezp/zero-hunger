@@ -888,7 +888,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Zero Hunger
+  m_Text: 'Open Seed
+
+'
 --- !u!222 &536128079
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1198,6 +1200,7 @@ MonoBehaviour:
   m_ResetButton: {fileID: 1280145151}
   m_ScreenReticleGround: {fileID: 1774288706}
   m_Floor: {fileID: 1695744559}
+  AppTitle: Home Orchard
   ProductSize: 0.65
 --- !u!114 &925396475
 MonoBehaviour:

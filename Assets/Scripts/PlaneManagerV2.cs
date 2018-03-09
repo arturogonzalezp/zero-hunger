@@ -18,6 +18,8 @@ public class PlaneManagerV2 : MonoBehaviour
     //public GameObject m_TranslationIndicator;
     public Transform m_Floor;
 
+	public string AppTitle;
+
     [Range(0.1f, 2.0f)]
     public float ProductSize = 0.65f;
 
@@ -25,7 +27,6 @@ public class PlaneManagerV2 : MonoBehaviour
 
     #region PRIVATE_MEMBERS
 
-    const string AppTitle = "Zero Hunger";
     const string unsuportedDeviceTitle = "Unsuported Device";
     const string unsuportedDeviceBody =
         "This device has failed to start the Positional Device Tracker. " +
